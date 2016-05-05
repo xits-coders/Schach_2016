@@ -1,6 +1,6 @@
 # Schach 2016
 
-### Struktur:
+### Struktur / Brunches:
 #### - php
       - PHP Anweisungen   
 #### - sql
